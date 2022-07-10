@@ -1,4 +1,4 @@
-# Data Structures
+# This repository consists of solutions to most commonly asked interview questions
 
 ## Indexes
 
